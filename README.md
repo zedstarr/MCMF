@@ -4,6 +4,8 @@ MF dialling for the Psion MC400 - files here uploaded from MCMF10.zip for archiv
 
 See https://bit.ly/MCMFopl
 
+![MCMF in action on MC400](https://zedstarr.files.wordpress.com/2021/05/screen02a.png)
+
 MCMF.TXT:
       
                ---- PSION MC-400 DTMF Dialler Utility v1.0 ----  Apr. '95
