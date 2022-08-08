@@ -17,7 +17,7 @@ MCMF.TXT:
            MCMF.OPL    The OPL source
            MCMF.TXT    This File!
    
-      This utility written by Chris Farrow (cxf@cix.compulink.co.uk).
+      This utility written by Chris Farrow.
       
       Credits
       -------
