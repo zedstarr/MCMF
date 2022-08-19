@@ -1,6 +1,6 @@
 # MCMF
 
-MF dialling for the Psion MC400 - files here uploaded from MCMF10.zip for archival
+MF dialling for the Psion MC400 - files here uploaded from MCMF10.zip (http://cd.textfiles.com/psion/disk2/OTHER/SUNSITE/UTILS/MCMF10.ZIP) for archival
 
 See https://bit.ly/MCMFopl
 
