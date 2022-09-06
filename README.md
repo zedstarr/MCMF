@@ -1,6 +1,9 @@
 # MCMF
 
-MF (DTMF/MF4) dialling for the Psion MC400 - files here uploaded from MCMF10.zip (http://cd.textfiles.com/psion/disk2/OTHER/SUNSITE/UTILS/MCMF10.ZIP) for archival
+MF (DTMF/MF4) dialling for the Psion MC400 - the Series 3 and later Psion machines had MF dialling capability built in but the MC-series laptops pre-dated those machines and missed out... until MCMF!
+  
+    
+  files here uploaded from MCMF10.zip (http://cd.textfiles.com/psion/disk2/OTHER/SUNSITE/UTILS/MCMF10.ZIP) for archival
 
 See https://bit.ly/MCMFopl
 
